@@ -1,2 +1,1 @@
-nl
-Este fue un pequeño proyecto para implementar en lenguaje ensamblador una bateria de test sobre una arquitectura de procesamiento dada: la DLX
+Programación en el ensamblador del procesador DLXV (una variante del procesador escalar DLX al que se le ha añadido la capacidad de procesamiento vectorial) de distintas variantes del bucle denominado DAXPY (Double-Precision A Times X Plus Y) que forma parte del test de prueba de rendimiento LINPACK.
